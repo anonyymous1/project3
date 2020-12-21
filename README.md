@@ -5,7 +5,6 @@ This is the Project 3 proposal.
 ### Full Template can be seen at [HERE!](https://xd.adobe.com/view/6e2eda93-7ea2-4cba-b063-edd797b84480-3b7d/?fullscreen)
 
 ![Image of Schema](https://i.imgur.com/Nn92kCU.png)
-<<<<<<< HEAD
 
 User Stories
 Alex Bustillos: As a user I would like to land on the home page and have a detailed introduction on how to use the application. This can also have an about me section which has images of the four creators of the app along with our github and linkedin icons
@@ -23,8 +22,6 @@ WHY - As a tattoo enthusiast, looking through google maps for tattoo shops can g
 Amari James:As a tattoo enthusiast, I want to be able to search for tattoo ideas , possibly see how they would look on different body parts, and find well-reviewed tattoo shops/ artists to do those tattoos in the same place.
 
 Ashton Mitchell:As a user looking to get their first tattoo yet one who doesn't know what id want or where to get it this app is a nice way for someone to find a place that leaves them in good hands when making such a permanent decision by being able to check which parlors get the best reviews as well as being able to find inspiration for what tattoo to they want to get
-=======
 ![Image of Overview](https://i.imgur.com/m0fUbuE.png)
 ![Image of Homepage](https://i.imgur.com/V6yL1RA.png)
 ![Image of Shop List](https://i.imgur.com/ZfZfQDz.png)
->>>>>>> 42230051776b37bc59df5228e5d4719b4e79619d
